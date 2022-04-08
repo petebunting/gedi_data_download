@@ -15,9 +15,9 @@ for year in numpy.arange(2019, 2023, 1):
     end_date = datetime.datetime(year=year, month=3, day=31)
     granules_lst = rsgislib.dataaccess.nasa_cmr.find_all_granules("GEDI02_B", version="002", start_date=start_date, end_date=end_date, page_size=100, max_n_pages=100)
     print("\tQ1 N Granules: {}".format(len(granules_lst)))
-    file_sizes[year]["Q1"] = rsgislib.dataaccess.nasa_cmr.get_total_file_size(granules_lst)
 
     if len(granules_lst) > 0:
+        file_sizes[year]["Q1"] = rsgislib.dataaccess.nasa_cmr.get_total_file_size(granules_lst)
         dwnld_db_file = f"GEDI02_B_{year}_Q1.json"
         miss_granules = rsgislib.dataaccess.nasa_cmr.create_cmr_dwnld_db(db_json=dwnld_db_file, granule_lst=granules_lst, dwnld_file_mime_type="application/x-hdfeos")
         print("\tQ1 {} Missed Granules: {}\n".format(year, len(miss_granules)))
@@ -27,9 +27,9 @@ for year in numpy.arange(2019, 2023, 1):
     end_date = datetime.datetime(year=year, month=6, day=30)
     granules_lst = rsgislib.dataaccess.nasa_cmr.find_all_granules("GEDI02_B", version="002", start_date=start_date, end_date=end_date, page_size=100, max_n_pages=100)
     print("\tQ2 N Granules: {}".format(len(granules_lst)))
-    file_sizes[year]["Q2"] = rsgislib.dataaccess.nasa_cmr.get_total_file_size(granules_lst)
 
     if len(granules_lst) > 0:
+        file_sizes[year]["Q2"] = rsgislib.dataaccess.nasa_cmr.get_total_file_size(granules_lst)
         dwnld_db_file = f"GEDI02_B_{year}_Q2.json"
         miss_granules = rsgislib.dataaccess.nasa_cmr.create_cmr_dwnld_db(db_json=dwnld_db_file, granule_lst=granules_lst, dwnld_file_mime_type="application/x-hdfeos")
         print("\tQ2 {} Missed Granules: {}\n".format(year, len(miss_granules)))
@@ -39,9 +39,9 @@ for year in numpy.arange(2019, 2023, 1):
     end_date = datetime.datetime(year=year, month=9, day=30)
     granules_lst = rsgislib.dataaccess.nasa_cmr.find_all_granules("GEDI02_B", version="002", start_date=start_date, end_date=end_date, page_size=100, max_n_pages=100)
     print("\tQ3 N Granules: {}".format(len(granules_lst)))
-    file_sizes[year]["Q3"] = rsgislib.dataaccess.nasa_cmr.get_total_file_size(granules_lst)
 
     if len(granules_lst) > 0:
+        file_sizes[year]["Q3"] = rsgislib.dataaccess.nasa_cmr.get_total_file_size(granules_lst)
         dwnld_db_file = f"GEDI02_B_{year}_Q3.json"
         miss_granules = rsgislib.dataaccess.nasa_cmr.create_cmr_dwnld_db(db_json=dwnld_db_file, granule_lst=granules_lst, dwnld_file_mime_type="application/x-hdfeos")
         print("\tQ3 {} Missed Granules: {}\n".format(year, len(miss_granules)))
@@ -51,9 +51,9 @@ for year in numpy.arange(2019, 2023, 1):
     end_date = datetime.datetime(year=year, month=12, day=31)
     granules_lst = rsgislib.dataaccess.nasa_cmr.find_all_granules("GEDI02_B", version="002", start_date=start_date, end_date=end_date, page_size=100, max_n_pages=100)
     print("\tQ4 N Granules: {}".format(len(granules_lst)))
-    file_sizes[year]["Q4"] = rsgislib.dataaccess.nasa_cmr.get_total_file_size(granules_lst)
 
     if len(granules_lst) > 0:
+        file_sizes[year]["Q4"] = rsgislib.dataaccess.nasa_cmr.get_total_file_size(granules_lst)
         dwnld_db_file = f"GEDI02_B_{year}_Q4.json"
         miss_granules = rsgislib.dataaccess.nasa_cmr.create_cmr_dwnld_db(db_json=dwnld_db_file, granule_lst=granules_lst, dwnld_file_mime_type="application/x-hdfeos")
         print("\tQ4 {} Missed Granules: {}\n".format(year, len(miss_granules)))
