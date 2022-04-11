@@ -5,16 +5,16 @@
          "producer_granule_id": "GEDI02_B_2020090225017_O07357_01_T00798_02_003_01_V002.h5",
          "granule_size": "104.323",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2020.03.30/GEDI02_B_2020090225017_O07357_01_T00798_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "../GEDI02_B_2020_Q1/GEDI02_B_2020090225017_O07357_01_T00798_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 188305789081274961,
          "producer_granule_id": "GEDI02_B_2020090225017_O07357_02_T00798_02_003_01_V002.h5",
          "granule_size": "342.339",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2020.03.30/GEDI02_B_2020090225017_O07357_02_T00798_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "../GEDI02_B_2020_Q1/GEDI02_B_2020090225017_O07357_02_T00798_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 137317633369256067,
