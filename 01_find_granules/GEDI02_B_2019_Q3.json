@@ -5,144 +5,144 @@
          "producer_granule_id": "GEDI02_B_2019272222956_O04519_01_T00721_02_003_01_V002.h5",
          "granule_size": "101.421",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272222956_O04519_01_T00721_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272222956_O04519_01_T00721_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 525150122752402309,
          "producer_granule_id": "GEDI02_B_2019272222956_O04519_02_T00721_02_003_01_V002.h5",
          "granule_size": "362.569",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272222956_O04519_02_T00721_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272222956_O04519_02_T00721_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 338751703125493748,
          "producer_granule_id": "GEDI02_B_2019272222956_O04519_03_T00721_02_003_01_V002.h5",
          "granule_size": "512.819",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272222956_O04519_03_T00721_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272222956_O04519_03_T00721_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 749621939987770028,
          "producer_granule_id": "GEDI02_B_2019272222956_O04519_04_T00721_02_003_01_V002.h5",
          "granule_size": "237.291",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272222956_O04519_04_T00721_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272222956_O04519_04_T00721_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 163584596723168229,
          "producer_granule_id": "GEDI02_B_2019272205705_O04518_01_T02296_02_003_01_V002.h5",
          "granule_size": "57.5271",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272205705_O04518_01_T02296_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272205705_O04518_01_T02296_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 217741161019706513,
          "producer_granule_id": "GEDI02_B_2019272205705_O04518_02_T02296_02_003_01_V002.h5",
          "granule_size": "412.671",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272205705_O04518_02_T02296_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272205705_O04518_02_T02296_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 200794287328115576,
          "producer_granule_id": "GEDI02_B_2019272205705_O04518_03_T02296_02_003_01_V002.h5",
          "granule_size": "524.258",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272205705_O04518_03_T02296_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272205705_O04518_03_T02296_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 278792941451464520,
          "producer_granule_id": "GEDI02_B_2019272205705_O04518_04_T02296_02_003_01_V002.h5",
          "granule_size": "22.1942",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272205705_O04518_04_T02296_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272205705_O04518_04_T02296_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 773265181801487525,
          "producer_granule_id": "GEDI02_B_2019272192415_O04517_04_T03718_02_003_01_V002.h5",
          "granule_size": "28.7193",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272192415_O04517_04_T03718_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272192415_O04517_04_T03718_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 191123553703120023,
          "producer_granule_id": "GEDI02_B_2019272192415_O04517_01_T03718_02_003_01_V002.h5",
          "granule_size": "8.42017",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272192415_O04517_01_T03718_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272192415_O04517_01_T03718_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 244327438391073472,
          "producer_granule_id": "GEDI02_B_2019272192415_O04517_03_T03718_02_003_01_V002.h5",
          "granule_size": "583.401",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272192415_O04517_03_T03718_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272192415_O04517_03_T03718_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 141075235697432839,
          "producer_granule_id": "GEDI02_B_2019272192415_O04517_02_T03718_02_003_01_V002.h5",
          "granule_size": "258.422",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272192415_O04517_02_T03718_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272192415_O04517_02_T03718_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 148947291859125827,
          "producer_granule_id": "GEDI02_B_2019272175125_O04516_02_T05140_02_003_01_V002.h5",
          "granule_size": "249.811",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272175125_O04516_02_T05140_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272175125_O04516_02_T05140_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 227720073478287443,
          "producer_granule_id": "GEDI02_B_2019272175125_O04516_01_T05140_02_003_01_V002.h5",
          "granule_size": "63.5692",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272175125_O04516_01_T05140_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272175125_O04516_01_T05140_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 205121515382646514,
          "producer_granule_id": "GEDI02_B_2019272175125_O04516_03_T05140_02_003_01_V002.h5",
          "granule_size": "476.793",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272175125_O04516_03_T05140_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272175125_O04516_03_T05140_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 295722430960632336,
          "producer_granule_id": "GEDI02_B_2019272175125_O04516_04_T05140_02_003_01_V002.h5",
          "granule_size": "194.396",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272175125_O04516_04_T05140_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272175125_O04516_04_T05140_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 200785806970913602,
          "producer_granule_id": "GEDI02_B_2019272161835_O04515_03_T00870_02_003_01_V002.h5",
          "granule_size": "613.738",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272161835_O04515_03_T00870_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272161835_O04515_03_T00870_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 107278296228986577,
          "producer_granule_id": "GEDI02_B_2019272161835_O04515_02_T00870_02_003_01_V002.h5",
          "granule_size": "250.627",
          "granule_url": "https://e4ftl01.cr.usgs.gov//GEDI_L1_L2/GEDI/GEDI02_B.002/2019.09.29/GEDI02_B_2019272161835_O04515_02_T00870_02_003_01_V002.h5",
-         "lcl_path": "",
-         "downloaded": false
+         "lcl_path": "/bigdata/datasets/GEDI/GEDI02_B_2019_Q3/GEDI02_B_2019272161835_O04515_02_T00870_02_003_01_V002.h5",
+         "downloaded": true
       },
       {
          "id": 566389856703585108,
